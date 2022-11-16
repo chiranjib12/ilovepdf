@@ -24,7 +24,7 @@
 <b>Released Under Apache License.</b><br>
 it was specially developed for creating PDF's from images.. And Now, Bot Supports many other features for PDF manipulation 🦾
 </div>
-<a href="https://telegram.dog/ilovepdf_bot">Demo Bot</a>
+<a href="https://t.me/Pdf_658_bot">Demo Bot</a>
 
 <div align="center">
 
@@ -112,7 +112,7 @@ the extracted PDF-images..</em>
     ╰────Railways──〄
 
 ### deploy on heroku:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nabilanavab/ilovepdf)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GreyMattersbot/ilovepdf)
 
 ## Project setUp:
 
