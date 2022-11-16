@@ -82,7 +82,7 @@ class settings(object):
     
     FEEDBACK = "https://telegram.dog/GreyMatter_Bots"
     
-    SOURCE_CODE = "https://t.me/Pdf_658_bot"
+    SOURCE_CODE = "https://github.com/Greymattersbot/ilovepdf"
     
     OWNER_ID, OWNER_USERNAME = 5151412494, "GreyMatter_Owner"
     
