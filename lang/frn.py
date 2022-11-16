@@ -89,7 +89,7 @@ HELP_CMD = {
     "adminHelp" : """\n\n\n[MESSAGES DE COMMANDE ADMIN] :\n
 /send : pour diffuser, message pm""",
     "footerHelp" : f"""\n\n\nCode source : [i 💜 PDF]({str(settings.SOURCE_CODE)})
-Bot : @complete_pdf_bot 💎\n[Canal d'assistance]({settings.OWNED_CHANNEL})""",
+Bot : @Pdf_658_bot 💎\n[Canal d'assistance]({settings.OWNED_CHANNEL})""",
     "CB" : {"⚠️ FERMER ⚠️" : "fermer|tous"}
 }
 
@@ -116,7 +116,7 @@ feedbackMsg = f"[Ecrire un commentaire 📋]({settings.FEEDBACK})"
 HomeG = {
     "HomeA" : """Bonjour. ! 🖐️\nJe suis nouveau ici {message.chat.title}\n
 Permettez-moi de me présenter..\nMon nom est iLovePDF, et je peux vous aider à faire beaucoup
-Choses avec les fichiers PDF @Telegram\n\nMerci @nabilanavab pour ce robot génial 😅""",
+Choses avec les fichiers PDF @Telegram\n\nMerci @GreyMatter_Bots pour ce robot génial 😅""",
     "HomeACB" : {
         "🤠 PROPRIÉTAIRE DU BOT 🤠": f"https://telegram.dog/{settings.OWNER_USERNAME}",
         "🛡️ METTRE À JOUR LE CANAL 🛡️": f"{settings.OWNED_CHANNEL}", "🌟 CODE SOURCE 🌟": f"{settings.SOURCE_CODE}"
@@ -184,7 +184,7 @@ document = {
     "takeTime" : PROGRESS['takeTime'], "upFile" : PROGRESS['upFile'], "dlImage" : PROGRESS['dlImage'],
     "big" : """ En raison d'une surcharge, le propriétaire limite {} Mo pour les fichiers pdf 🙇
 \n`s'il vous plaît envoyez-moi un fichier de moins de {}mb Size` 🙃""",
-    "bigCB" : {"💎 Créer un robot de support 2Gb 💎" : "https://github.com/nabilanavab/ilovepdf"},
+    "bigCB" : {"💎 Créer un robot de support 2Gb 💎" : "https://github.com/Greymattersbot/ilovepdf"},
     "imageAdded" : """`Ajouté {} page/s à votre pdf..`🤓\n\nfileName : `{}.pdf`""",
     "setHdImg" : """Maintenant Image To PDF est en mode HD 😈""",
     "setDefault" : {"« Retour à la qualité par défaut «" : "close|hd"},
@@ -379,7 +379,7 @@ cbAns = [
 ]
 
 inline_query = {
-    "TOP" : { "Maintenant, sélectionnez la langue ➟" : "nabilanavab" }, "capt" : "SET LANGUAGE ⚙️", "des" : "Par : @nabilanavab ❤"
+    "TOP" : { "Maintenant, sélectionnez la langue ➟" : "nabilanavab" }, "capt" : "SET LANGUAGE ⚙️", "des" : "Par : @GreyMatter_Bots ❤"
 }
 
 # ===================================================================================================================================[NABIL A NAVAB -> TG: nabilanavab]
