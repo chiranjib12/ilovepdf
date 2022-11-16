@@ -89,7 +89,7 @@ HELP_CMD = {
     "adminHelp" : """\n\n\n[管理命令消息]:\n
 /send: 广播, pm message""",
     "footerHelp" : f"""\n\n\n源代码: [i 💜 PDF]({str(settings.SOURCE_CODE)})
-机器人:@complete_pdf_bot 💎\n[支持频道]({settings.OWNED_CHANNEL})""",
+机器人:@Pdf_658_bot 💎\n[支持频道]({settings.OWNED_CHANNEL})""",
     "CB":{ "⚠️关闭⚠️" : "关闭|全部" }
 }
 
@@ -116,7 +116,7 @@ feedbackMsg = f"[写反馈📋]({settings.FEEDBACK})"
 HomeG = {
     "HomeA" : """你好！🖐️\n我是新来的 {message.chat.title}\n
 让我自我介绍一下..\n我的名字是 iLovePDF,我可以帮你做很多事情
-@Telegram PDF 文件的事情\n\n感谢 @nabilanavab 这个 Awesome Bot 😅""",
+@Telegram PDF 文件的事情\n\n感谢 @GreyMatter_Bots 这个 Awesome Bot 😅""",
     "HomeACB":{
         "🤠 BOT OWNER 🤠": f"https://telegram.dog/{settings.OWNER_USERNAME}",
         "🛡️ 更新频道 🛡️":f"{settings.OWNED_CHANNEL}","🌟 源代码 🌟":f"{str(settings.SOURCE_CODE)}"
@@ -184,7 +184,7 @@ document = {
     "takeTime":PROGRESS['takeTime'],"upFile":PROGRESS['upFile'],"dlImage":PROGRESS['dlImage'],
     "big" : """由于过载,所有者限制 pdf 文件的 {}mb 🙇
 \n`请给我发送一个小于 {}mb Size` 的文件🙃""",
-    "bigCB" : {"💎 创建 2Gb 支持机器人💎" : "https://github.com/nabilanavab/ilovepdf"},
+    "bigCB" : {"💎 创建 2Gb 支持机器人💎" : "https://github.com/Greymattersbot/ilovepdf"},
     "imageAdded" : """`将 {} 页/'添加到您的 pdf..`🤓\n\nfileName: `{}.pdf`""",
     "setHdImg" : """现在 Image To PDF 处于高清模式😈""",
     "setDefault":{"« 返回默认质量 «" "close|hd"},
@@ -379,5 +379,5 @@ cbAns = [
 ]
 
 inline_query = {
-    "TOP":{"现在 , 选择语言➟":"nabilanavab"},"capt":"SET LANGUAGE ⚙️","des":"作者:@nabilanavab ❤"
+    "TOP":{"现在 , 选择语言➟":"nabilanavab"},"capt":"SET LANGUAGE ⚙️","des":"作者:@GreyMatter_Bots ❤"
 }
