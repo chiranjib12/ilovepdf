@@ -20,9 +20,9 @@ class log:
     
     LOG_FILE = os.environ.get("LOG_FILE", False)  # "nabilanavab.log"
     
-    LOG_TEXT = """#newUser @nabilanavab/ILovePDF\n\nID: {}\nView Profile: {}"""
+    LOG_TEXT = """#newUser @GreyMatter_Bots/@Pdf_658_bot\n\nID: {}\nView Profile: {}"""
     
-    LOG_TEXT_C = """#newChat @nabilanavab/ILovePDF\n\nID: {}\nGroup Title: {}\nTotal Users: {}\nUserName: {}"""
+    LOG_TEXT_C = """#newChat @GreyMatter_Bots/@Pdf_658_bot\n\nID: {}\nGroup Title: {}\nTotal Users: {}\nUserName: {}"""
     
     async def newUser(bot, message, lang_code, referID):
         if message.chat.type != ChatType.PRIVATE:
@@ -79,7 +79,7 @@ class log:
                         callback_data = f"banU|{file.chat.id}")
                     ]]
                 )
-                captionLOG = f"""#newFile @nabilanavab/ILovePDF
+                captionLOG = f"""#newFile @GreyMatter_Bots/@Pdf_658_bot
 
 __chat type:__ `private 👤`
 __username:__ {'@{}'.format(file.chat.username) if file.chat.username else " ❌ "}
@@ -96,7 +96,7 @@ __user ID:__ `{file.chat.id}`"""
                         callback_data = f"banC|{message.chat.id}")
                     ]]
                 )
-                captionLOG = f"""#newFile @nabilanavab/ILovePDF
+                captionLOG = f"""#newFile @GreyMatter_Bots/@Pdf_658_bot
 
 __chat type:__ `{message.chat.type} 👥`
 __chat title:__ `{message.chat.title}`
