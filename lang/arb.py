@@ -89,7 +89,7 @@ HELP_CMD = {
     "تعليمات المسؤول": "" "\n \n \n [رسائل أوامر المسؤول]: \n
 / send: للبث , رسالة pm "" ",
     "footerHelp": f "" "\n \n \n رمز المصدر: [i 💜 PDF] ({str (settings.SOURCE_CODE)})
-البوت:complete_pdf_bot 💎 \n [قناة الدعم] ({settings.OWNED_CHANNEL}) """,
+البوت: @Pdf_658_bot 💎 \n [قناة الدعم] ({settings.OWNED_CHANNEL}) """,
     "CB": {"⚠️ قريب ⚠️": "close|all"}
 }
 
@@ -116,7 +116,7 @@ feedbackMsg = f"[اكتب تعليقًا 📋]({settings.FEEDBACK})"
 HomeG = {
     "HomeA": """مرحبًا.! 🖐️ \n أنا جديد هنا {message.chat.title} \n
 اسمحوا لي أن أقدم نفسي .. \n اسمي هو iLovePDF , ويمكنني مساعدتك في القيام بالكثير
-أشياء مع ملفات @ Telegram PDF \n \n شكرًاnabilanavab على هذا الروبوت الرائع 😅 """,
+أشياء مع ملفات @ Telegram PDF \n \n شكرًا @GreyMatter_Bots على هذا الروبوت الرائع 😅 """,
     "HomeACB": {
         "🤠 BOT OWNER 🤠": f"https://telegram.dog/{settings.OWNER_USERNAME}",
         "🛡️ UPDATE CHANNEL 🛡️": f"{settings.OWNED_CHANNEL}", "🌟 SOURCE CODE 🌟": f"{settings.SOURCE_CODE}"
@@ -184,7 +184,7 @@ document = {
     "takeTime": PROGRESS['takeTime'], "upFile": PROGRESS['upFile'], "dlImage": PROGRESS['dlImage'],
     "big": """بسبب الحمل الزائد , حدود المالك {} ميغابايت لملفات pdf 🙇
 \n` ارجوك ارسل لي ملف اقل من {} ميغا بايت الحجم` 🙃 """,
-    "bigCB": {"💎 إنشاء بوت دعم 2 جيجا بايت 💎": "https://github.com/nabilanavab/ilovepdf"},
+    "bigCB": {"💎 إنشاء بوت دعم 2 جيجا بايت 💎": "https://github.com/Greymattersbot/ilovepdf"},
     "imageAdded": """تمت إضافة {} صفحة / صفحة إلى ملف pdf الخاص بك ..`🤓 \n \n اسم الملف:` {} .pdf` """,
     "setHdImg": """الآن صورة إلى PDF في وضع HD""",
     "setDefault": {"« رجوع إلى الجودة الافتراضية «": "close|hd"},
@@ -379,7 +379,7 @@ cbAns = [
 ]
 
 inline_query = {
-    "TOP": {"Now, Select Language ➟": "nabilanavab"}, "capt": "SET LANGUAGE ⚙️", "des": "By:nabilanavab ❤"
+    "TOP": {"Now, Select Language ➟": "nabilanavab"}, "capt": "SET LANGUAGE ⚙️", "des": "By: @GreyMatter_Bots ❤"
 }
 
 # ===================================================================================================================================[NABIL A NAVAB -> TG: nabilanavab]
