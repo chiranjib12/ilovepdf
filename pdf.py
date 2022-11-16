@@ -108,7 +108,7 @@ class Bot(ILovePDF):
                     f"❤ BOT FILENAME: {myID.first_name}\n"
                     f"❤ BOT USERNAME: {myID.username}\n\n"
                     f"❤ SOURCE-CODE By: @nabilanavab 👑\n"
-                    f"❤ BOT CHANNEL: t.me/iLovePDF_bot\n\n"
+                    f"❤ BOT CHANNEL: t.me/GreyMatter_Bots\n\n"
                     f"{iLovePDF}")
         
         # -----> SETTING LOG CHANNEL <-----
