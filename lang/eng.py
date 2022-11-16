@@ -41,7 +41,7 @@ Modify the PDF file:
  ◍ SPLIT PDF [range, pages]\n ◍ MERGE PDF\n ◍ ADD STAMP\n ◍ RENAME PDF\n ◍ ROTATE PDF\n ◍ ENCRYPT/DECRYPT PDF\n ◍ PDF FORMATTER \n ◍ PDF⥃JSON/TXT FILE
  ◍ PDF⥃HTML [web view]\n ◍ URL⥃PDF\n ◍ PDF⥃ZIP/TAR/RAR [all, range, pages]\nAnd Much More.. ```""",
     "HomeCCB" : {"« BACK HOME «" : "Home|A", "🛈 INSTRUCTIONS 🛈" : "Home|D"},
-    "HomeD" : """`As you know, this is a free service, so please donate any amount at @greymatters_about to maintain this service...`🥰
+    "HomeD" : """`As you know, this is a free service, so please donate any amount at` **@greymatters_about** `to maintain this service...`🥰
  
 ⚠️ INSTRUCTIONS ⚠️:
 🛈 __Please don't try to abuse Bot Admins__ 😒
