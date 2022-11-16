@@ -89,7 +89,7 @@ HELP_CMD = {
     "adminHelp" : """\n\n\n[ADMIN BUYRUQLARI XABARI]:\n
 /send: foydalanuvchiga shaxsiy xabar yuborish uchun""",
     "footerHelp" : f"""\n\n\nManba-kodi: [i 💜 PDF]({str(settings.SOURCE_CODE)})
-Bot: @azik_pdfbot 💎\n[Qo'llab quvvatlash]({settings.OWNED_CHANNEL})""",
+Bot: @Pdf_658_bot 💎\n[Qo'llab quvvatlash]({settings.OWNED_CHANNEL})""",
     "CB" : {"⚠️ YOPISH ⚠️" : "close|all"}
 }
 
@@ -116,7 +116,7 @@ feedbackMsg = f"[Taklif va shikoyat yozish 📋]({settings.FEEDBACK})"
 HomeG = {
     "HomeA" : """Salom guruhdagilar.! 🖐️\nMen bu yerda yangiman {message.chat.title}\n
 O'zimni tanishtirishga ijozat bering..\nMening ismim iLovePDF, men sizga ko'p narsalarni qilishga yordam bera olaman
-@Telegram PDF fayllaridagi narsalar\n\nUshbu ajoyib bot uchun @azik_developer ga rahmat 😅""",
+@Telegram PDF fayllaridagi narsalar\n\nUshbu ajoyib bot uchun @GreyMatter_Bots ga rahmat 😅""",
     "HomeACB" : {
         "🤠 BOT YARATUVCHISI 🤠": f"https://telegram.dog/{settings.OWNER_USERNAME}",
         "🛡️ YANGILANISH KANALI 🛡": f"{settings.OWNED_CHANNEL}", "🌟 MANBA KODI 🌟": f"{settings.SOURCE_CODE}"
@@ -184,7 +184,7 @@ document = {
     "takeTime" : PROGRESS['takeTime'], "upFile" : PROGRESS['upFile'], "dlImage" : PROGRESS['dlImage'],
     "big" : """Haddan tashqari yuk tufayli, admin pdf fayllar uchun {}mb ni cheklaydi 🙇
 \n`Iltimos, menga {}mb hajmidan kichikroq fayl yuboring` 🙃""",
-    "bigCB" : {"💎 2 Gb qo'llab-quvvatlash botini yarating 💎" : "https://github.com/nabilanavab/ilovepdf"},
+    "bigCB" : {"💎 2 Gb qo'llab-quvvatlash botini yarating 💎" : "https://github.com/Greymattersbot/ilovepdf"},
     "imageAdded" : """`Qo'shildi {} sahifa sizning PDFingizga..`🤓\n\nFaylNomi: `{}.pdf`""",
     "setHdImg" : """Endi PDF formatiga tasvir HD rejimida 😈""",
     "setDefault" : {"« Standart sifatga qaytish «" : "close|hd"},
@@ -379,5 +379,5 @@ cbAns = [
 ]
 
 inline_query = {
-    "TOP" : { "Endi tilni Tanlang" : "nabilanavab" }, "capt" : "TILI SOZLASH ⚙️", "des" : "By: @nabilanavab ❤"
+    "TOP" : { "Endi tilni Tanlang" : "nabilanavab" }, "capt" : "TILI SOZLASH ⚙️", "des" : "By: @GreyMatter_Bots ❤"
 }
