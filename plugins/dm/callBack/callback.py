@@ -108,7 +108,7 @@ async def _common(bot, callbackQuery):
                 callbackQuery.inline_message_id,
                 text = "set Language: 🌐\n\n"
                        f"i ❤ PDF\nBot: @{myID.username}\n"
-                       "Update Channel: @ilovepdf_bot\n\n"
+                       "Update Channel: @GreyMatter_Bots\n\n"
                        f"`UPDATED: {time.strftime('%d:%B:%Y, %A')}`\n"
                        f"`TIME: {time.strftime('%I:%M %p')}`",
                 reply_markup=BUTTON1
