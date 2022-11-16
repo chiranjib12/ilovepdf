@@ -6,10 +6,10 @@
 		"ilovepdf", "nabilabavab", "python",
 		"ilovepdf_bot", "complete pdf bot"
 	],
-	"website": "https://github.com/nabilanavab/ilovepdf",
-	"repository": "https://github.com/nabilanavab/ilovepdf",
-	"logo": "https://te.legra.ph/file/84c63dd1fabde3b33cf90.jpg",
-	"success_url": "https://github.com/nabilanavab/ilovepdf",
+	"website": "https://github.com/Greymattersbot/ilovepdf",
+	"repository": "https://github.com/Greymattersbot/ilovepdf",
+	"logo": "https://telegra.ph/file/84b87bcf40846125d29a9.jpg",
+	"success_url": "https://github.com/Greymattersbot/ilovepdf",
 	"stack": "container",
 	"env": {
 		"API_ID": {
