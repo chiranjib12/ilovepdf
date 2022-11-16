@@ -78,11 +78,11 @@ class settings(object):
 
     MULTI_LANG_SUP = True if os.environ.get('MULTI_LANG_SUP', "False") == "True" else False
     
-    REPORT = "https://t.me/ilovepdf_bot/33?comment=1000000000"
+    REPORT = "https://t.me/greymatters_bots_discussion"
     
     FEEDBACK = "https://telegram.dog/GreyMatter_Bots"
     
-    SOURCE_CODE = "https://github.com/Greymattersbot/ilovepdf"
+    SOURCE_CODE = "https://t.me/Pdf_658_bot"
     
     OWNER_ID, OWNER_USERNAME = 5151412494, "GreyMatter_Owner"
     
