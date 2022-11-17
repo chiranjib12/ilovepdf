@@ -38,7 +38,7 @@ async def images(bot, message):
         await message.reply_chat_action(enums.ChatAction.TYPING)
         lang_code = await getLang(message.chat.id)
         if message.chat.id in HD:
-            if len(HD[message.chat.id]) >= 16:
+            if len(HD[message.chat.id]) >= 101:
                 return
             HD[message.chat.id].append(message.photo.file_id)
             generateCB = "document['generate']" if settings.DEFAULT_NAME else  "document['generateRN']"
