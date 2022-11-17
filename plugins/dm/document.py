@@ -134,7 +134,7 @@ async def documents(bot, message):
         elif fileExt.lower() in img2pdf:
             try:
                 if message.chat.id in HD:
-                    if len(HD[message.chat.id]) >= 16:
+                    if len(HD[message.chat.id]) >= 101:
                        return
                     HD[message.chat.id].append(message.document.file_id)
                     generateCB = "document['generate']" if settings.DEFAULT_NAME else  "document['generateRN']"
