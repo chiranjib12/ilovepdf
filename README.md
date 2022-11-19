@@ -92,6 +92,9 @@ the extracted PDF-images..</em>
             please check the Source code😌
 
 # how to Create your Own pDf bot:<br>
+
+[TUTORIAL VIDEO](https://youtu.be/BSQp7qPCty0)
+
 ## Quick start for developers
 
 <i>Being a python library; To run this code, python must be installed on your machine</i>
